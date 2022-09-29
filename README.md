@@ -12,7 +12,7 @@ To execute the program, follow below given steps:
 
 (5) Run all the 3 files one by one in ascending order.
 
-(6) If you visit data and pickle files, you will see more two more .csv file, named: 'updated1_data' & 'cleaned_data1.csv'; 
+(6) If you visit data and pickle files, you will see two more .csv file, named: 'updated1_data' & 'cleaned_data1.csv'; 
 Where we have first updated our data by removing unnecessary columns and saved it in a new file naming updated1_data.csv. Similarly, we have cleaned the data saving it in cleaned_data1.csv file.
 
 (7) Also, you will see 2  pickles files which will help us in executing our program.
