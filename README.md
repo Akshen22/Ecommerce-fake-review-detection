@@ -19,7 +19,7 @@ Where we have first updated our data by removing unnecessary columns and saved i
 
 (8) Download deployment.py file and paste it in ecommerce fake review detector.
 
-(9) Open pycharm and then ecommerce fake review detector folder later download all the requirements required (given in the folder, requirements.txt)
+(9) Open pycharm and then ecommerce fake review detector folder, later download all the requirements required (given in the folder, requirements.txt)
 
 (10) Open terminal and type, streamlit run deployment.py   
 
